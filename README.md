@@ -21,4 +21,4 @@ Mi nombre es Fernando Sebastián Vásquez Reyes, tengo 19 años de edad y actual
                                                       HABILIDADES
  
 - Lenguaje de programación C, C++
-- Conocimientos básicos en Java y Python.
+- Conocimientos básicos en Java, Python, HTML5, CSS3.
